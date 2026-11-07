@@ -4,7 +4,12 @@ Why doesn't the LG G2 have DTSX available as passthrough
 I'm looking into why Jellyfin can play a DTS:X audio track, but between this and the AVR, it's transcoded or plays no audio at all.
 Ultimately i will consider success if when audible playback from LG Jellyfin, with the AVR reporting DTS:X
 
+Can the Jellyfin App on the LG deliver DTS:X to the TV?
+Jellyfin reported Direct Play for a diagnostic clip containing only DTS:X audio. 
 
+
+
+Previous Work & Research
 This repo has successfully implimented DTS:X over eARC on the G5
 
 Glasshouse documents native-app DTS:X over eARC on a G5
